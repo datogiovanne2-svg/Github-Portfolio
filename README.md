@@ -76,6 +76,6 @@ Status: In Progress
 
 - **Email:** datogiovanne2@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/dato-giovanni
-- **Portfolio:** YOUR_PORTFOLIO_URL
+- **Portfolio:** https://giovanniportfolio-plum.vercel.app/
 
 *Committed to continuous learning, practical problem-solving, and developing reliable network infrastructure skills.*
