@@ -1,98 +1,81 @@
-# Hi, I'm Giovanni Dato
+# Giovanni Dato
+### IT Student | Aspiring Network Engineer | CCNA Candidate
 
-### Information Technology Student | Aspiring Network Engineer | CCNA Candidate
+**Building practical networking skills. Designing reliable infrastructure. Learning through hands-on projects.**
 
-I'm an Information Technology student at Academic City University in Accra, Ghana, with a strong interest in computer networking, network infrastructure, and cybersecurity fundamentals.
+I'm an Information Technology student at Academic City University, Accra, Ghana, focused on computer networking, network infrastructure, and network security fundamentals. I am currently preparing for the Cisco Certified Network Associate (CCNA) certification and strengthening my technical knowledge through practical labs and projects.
 
-I'm currently preparing for the **Cisco Certified Network Associate (CCNA)** certification while developing my technical skills through hands-on networking labs, programming projects, and collaborative software development.
-
-I enjoy solving technical problems, learning how networks operate, and building practical solutions.
-
-## About Me
-
-- 🎓 B.Sc. Information Technology student at Academic City University.
-- 🌐 Focused on networking, routing, switching, and network troubleshooting.
-- 📚 Currently preparing for the CCNA certification.
-- 💻 Experience with Cisco Packet Tracer, Python, C, and GitHub.
-- 🤝 Project Coordinator and Team Lead for an AI-powered Student Assistant platform.
-- 📍 Based in Accra, Ghana.
-
-## Technical Skills
-
-**Networking Fundamentals**
-- OSI and TCP/IP models
-- IPv4/IPv6 addressing and VLSM subnetting
-- Ethernet, routing, and switching
-- Network interface troubleshooting
-
-**Network Access**
-- VLANs and 802.1Q trunking
-- Inter-VLAN routing
-- EtherChannel, STP, RSTP, and PVST+
-- CDP/LLDP and Cisco wireless fundamentals
-
-**IP Connectivity and Services**
-- Static and default routing
-- OSPFv2 single-area
-- DHCP, DNS, NAT/PAT, and NTP
-- SNMP, Syslog, QoS, SSH, FTP, and TFTP
-
-**Security Fundamentals**
-- Access Control Lists (ACLs)
-- Port security and DHCP snooping
-- Dynamic ARP Inspection
-- AAA, VPNs, and device hardening
-- WPA2/WPA3 wireless security
-
-**Programming and Tools**
-- Python
-- C
-- Cisco Packet Tracer
-- Git and GitHub
-- Microsoft Excel
-
-## Projects
-
-### 1. AI-Powered Student Assistant Platform
-**Role:** Project Coordinator / Team Lead  
-**Institution:** Academic City University
-
-- Led a multidisciplinary team in designing and developing an AI-powered student assistant platform.
-- Coordinated frontend, backend, database, and cloud-hosting activities.
-- Managed team collaboration and version control using GitHub.
-- Contributed to the delivery of a functional system for student registration, course enrollment, and academic advising.
-
-### 2. Mobile Money Menu Application
-**Technology:** Python
-
-- Developed a command-line application simulating mobile money transactions.
-- Implemented balance checking, fund transfers, and bill payments.
-- Used core Python concepts, input handling, and basic error handling to support user interactions.
-
-## Certification
-
-- **Cisco Certified Network Associate (CCNA)**, In Progress
-
-## Education
-
-**Academic City University**  
-Accra, Ghana  
-B.Sc. Information Technology | September 2025 – Present
-
-**Trinity School College**  
-Cotonou, Benin  
-Secondary Education
-
-## Award
-
-- Best in Chemistry, Trinity School College, Benin
-
-## Connect With Me
-
-- **Email:** datogiovanne2@gmail.com
-- **LinkedIn:** [Giovanni Dato](https://www.linkedin.com/in/dato-giovanni)
-- **Portfolio:** [View My Live Portfolio](YOUR_PORTFOLIO_URL)
+**[View My Live Portfolio](https://giovanniportfolio-plum.vercel.app/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/dato-giovanni)** · **[Contact Me](mailto:datogiovanne2@gmail.com)**
 
 ---
 
-*I'm continuously learning, building practical projects, and developing the skills needed to contribute to reliable and secure network infrastructure.*
+## PROFESSIONAL PROFILE
+
+- **Networking:** Routing, switching, VLANs, IP addressing, subnetting, and network troubleshooting.
+- **Cisco Technologies:** Hands-on learning with Cisco Packet Tracer and CCNA-level networking concepts.
+- **Network Security:** ACLs, Layer 2 security, device hardening, and wireless security fundamentals.
+- **Technical Projects:** Experience coordinating a multidisciplinary team to deliver an AI-powered student assistant platform.
+- **Programming:** Python and C, with practical experience developing a command-line mobile money application.
+
+## TECHNICAL SKILLS
+
+| Networking | Network Services | Security Fundamentals |
+|---|---|---|
+| VLANs and trunking | DHCP and DNS | ACLs |
+| Static routing and OSPFv2 | NAT/PAT and NTP | Port security |
+| IPv4/IPv6 and VLSM | SSH and SNMP | DHCP snooping |
+| Inter-VLAN routing | QoS and Syslog | VPN fundamentals |
+| STP and EtherChannel | FTP and TFTP | WPA2/WPA3 |
+
+**Tools:** Cisco Packet Tracer, Git, GitHub, Microsoft Excel  
+**Programming Languages:** Python, C
+
+## FEATURED PROJECTS
+
+### AI-Powered Student Assistant Platform
+**Role:** Project Coordinator / Team Lead  
+**Institution:** Academic City University
+
+- Coordinated frontend, backend, database, and cloud-hosting workstreams.
+- Led collaboration across a multidisciplinary student team.
+- Managed project collaboration and version control using GitHub.
+- Contributed to a platform supporting student registration, course enrollment, and academic advising.
+
+### Mobile Money Menu Application
+**Language:** Python
+
+- Developed a command-line application simulating mobile money transactions.
+- Implemented balance checking, fund transfers, and bill payments.
+- Applied input handling, conditional logic, and basic error handling.
+
+## EDUCATION
+
+**B.Sc. Information Technology**  
+Academic City University, Accra, Ghana  
+September 2025 – Present | GPA: 3.80/4.00
+
+**Secondary Education**  
+Trinity School College, Cotonou, Benin
+
+## CERTIFICATION
+
+**Cisco Certified Network Associate (CCNA)**  
+Status: In Progress
+
+## ACHIEVEMENT
+
+- Best in Chemistry, Trinity School College, Benin.
+
+## LANGUAGES
+
+- French: Fluent
+
+---
+
+### LET'S CONNECT
+
+- **Email:** datogiovanne2@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/dato-giovanni
+- **Portfolio:** YOUR_PORTFOLIO_URL
+
+*Committed to continuous learning, practical problem-solving, and developing reliable network infrastructure skills.*
