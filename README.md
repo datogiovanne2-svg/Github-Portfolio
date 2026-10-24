@@ -69,6 +69,8 @@ Status: In Progress
 ## LANGUAGES
 
 - French: Fluent
+- English
+  
 
 ---
 
